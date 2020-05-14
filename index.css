@@ -1,0 +1,13 @@
+div p {
+  margin-left: 5%;
+}
+
+.tb {
+  border: solid 1px black;
+  background-color: aquamarine;
+}
+
+tr, td {
+  border: solid 1px black;
+  background-color: yellow;
+}
